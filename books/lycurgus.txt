@@ -1,0 +1,1584 @@
+﻿The Project Gutenberg eBook of Lycurgus
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Lycurgus
+        or The future of law
+
+Author: E. S. P. Haynes
+
+Release date: October 10, 2024 [eBook #74553]
+
+Language: English
+
+Original publication: New York: E. P. Dutton & Company
+
+Credits: Produced by Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net (This book was produced from images made available by the HathiTrust Digital Library.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK LYCURGUS ***
+
+
+
+
+
+                               LYCURGUS
+
+
+
+
+                               LYCURGUS
+                                  OR
+                           The Future of Law
+
+                                  BY
+                            E. S. P. HAYNES
+
+               _Author of “Divorce as it Might Be,” “The
+                      Enemies of Liberty,” etc._
+
+
+                            [Illustration]
+
+
+                               NEW YORK
+                        E. P. DUTTON & COMPANY
+                           681 FIFTH AVENUE
+
+
+
+
+                            Copyright, 1926
+                       By E. P. DUTTON & COMPANY
+
+                         _All Rights Reserved_
+
+
+                PRINTED IN THE UNITED STATES OF AMERICA
+
+
+
+
+                                  To
+                        _ARTHUR MALCOLM LATTER
+                     one of His Majesty’s Counsel_
+
+
+
+
+                                PREFACE
+
+
+Lawyers are supposed to be more interested in the past than in the
+future and to resent lay criticism. Yet most lawyers would find
+the contemplation of existing anomalies intolerable if there were
+no prospect of any future remedy, and so far as lay criticism is
+concerned, it is almost invariably the lawyers who want reforms and
+are hopelessly obstructed by stupidity and indolence in the House of
+Commons. If the laity were really interested in legal reform the world
+would be a happier place.
+
+In the last twenty years I have come across a large number of judges,
+barristers, and solicitors who have spent endless time and trouble
+in trying to improve our marriage and divorce laws without receiving
+any aid or gratitude from the public, and even an incomparable jurist
+and versatile scholar like Sir Frederick Pollock has never spared any
+effort to remove hardship with which he may not have been brought so
+closely in contact as less learned men.
+
+I mention all this because my motive in writing the following remarks
+is to stimulate the interest of the laity in the law. The law offers
+a fine intellectual discipline and moral training to its students.
+Its standard of honesty is far higher than the ordinary commercial
+standard and it teaches men and women how to think, as distinct from
+cramming miscellaneous facts into their heads without any guiding
+principle. Medieval men and women who had any education at all were far
+better educated than the newspaper reader of to-day. They were often
+bilingual and usually understood theology, if not law, and therefore
+comprehended logic and the rules of reasoning far better than the
+ordinary voter of our own time.
+
+Professor Jowett once said that logic was “neither a science nor an art
+but a dodge,” and that is rather the attitude of the man in the street
+to law. I hope that any reader of this book who may be induced to look
+into some of the points I have mentioned will feel this attitude to be
+as Philistine and unworthy as Jowett’s other observation that “Ici on
+parle français” was the real inscription over the gates of Hell.
+
+
+
+
+                CONTENTS
+
+
+                                    PAGE
+ INTRODUCTORY                          1
+    I. LEGISLATION                     8
+   II. THE LAW COURTS                 12
+  III. CORPORATIONS                   18
+   IV. THE CRIMINAL LAW               22
+    V. FAMILY LAW                     28
+   VI. THE LAND LAWS                  39
+  VII. COSTS AND FUSION               45
+ VIII. PRIVATE INTERNATIONAL LAW      66
+   IX. INDIVIDUAL LIBERTY             78
+
+
+
+
+                               LYCURGUS
+
+
+
+
+                             INTRODUCTORY
+
+
+The title of this book connotes limitation, for it is obviously
+impossible to attempt a prophecy about law in all parts of the world,
+even though “prophecy is the most gratuitous form of error.” I shall
+confine myself in the main to law in English-speaking countries, for
+the countries which have adopted Roman Law――_i.e._, Scotland and most
+European countries――are not likely to change it very much. English
+law has largely influenced the world through English Colonies and
+even through South America, where Bentham drafted more than one
+constitution. Bacon drafted the constitution of Virginia, which has
+been the model of the average American State. Even the present writer
+has been unofficially consulted about a Federal divorce law for the
+United States.
+
+The future of law in every State depends very much on political
+developments. If democracy proceeds on its present lines all law is
+likely to be brought into contempt. Law is brought into contempt in
+many ways but usually as follows:――
+
+(1) Bad drafting of statutes as in the case of the Rent Restriction
+Acts, the ambiguity of which necessitates incessant litigation and
+conflicting decisions.
+
+(2) Absence of principle or indolence in applying it. Thus Professor
+Dicey wrote:――“English Law might be made lucid, and would be in the
+main good, if we had no statutes. It is not only or perhaps mainly
+that Statutes are ill-drawn ... but that English judges are incapable
+of recognizing a principle when once it is put into the form of an Act
+of Parliament.” The Married Women Property Act of 1882 might have been
+drawn in two clauses; the result of this clumsy Statute is that more
+than forty years afterwards a man is held liable for his wife’s torts,
+while on the other hand the Partnership Act, 1890, remains as a model
+of lucidity and saves much litigation.
+
+(3) The abuse of legislation by faddists who try to intrude into
+matters which are sacred to the individual. I need only refer to
+Prohibition in the United States as an obvious example of anarchy
+created by futile and hypocritical legislation.
+
+(4) Palpable anomalies such as the Divorce Law of England and Wales
+which embodies a timid compromise between common sense and theological
+doctrines not seriously accepted by 50 per cent. of the community.
+
+(5) Uncertainty and delay, which have to some extent been remedied for
+well-to-do suitors but exist to-day for most poor persons.
+
+All these tendencies exist to-day under what is called democracy. In
+Canada and the United States we see movable property (_e.g._, bearer
+bonds) taxed on the death of the owner not in accordance with his
+domicil but in accordance with the physical situation of the property
+itself. In Victoria (Australia) the test of residence is substituted
+for that of domicil in divorce. There are also other anomalies
+resulting in what is known as “double income tax.” The operation of the
+law is also made uncertain by the Executive interfering with justice,
+as appeared when the first Labour Ministry in Great Britain jockeyed
+with the legal discretion of its own Attorney General.
+
+There is also a general impatience with the complexity of human
+business, which has to be put into the strait waistcoat of the law
+before Justice can be achieved, and a tendency to dragoon citizens
+when it is easier to employ force than to determine their rights. Such
+tendencies result in Statutes like the Trades Disputes Act, 1906, and
+in setting up bureaucratic bodies like the Ministry of Health as judges
+in their own cause in their own courts.
+
+There are, however, some reassuring factors to-day. State Socialism
+is as dead as a doornail and other forms of Socialism are not likely
+to buttress up bureaucracy. The small investor and the landowner
+are waking up to the advantages of private ownership and individual
+enterprise. Objectionable clauses against liberty in the Wireless
+Bill and Criminal Justice Bill have been hotly opposed. There is
+also a better diffusion of educational facilities and a perceptible
+reaction against what Mr. Belloc calls the “Servile State.” I shall,
+therefore, presume to make my forecast on the assumption that the world
+is learning some kind of wisdom and will in the near future reform its
+laws in accordance with common sense, even if it does not reach the
+standard laid down by Dr. Johnson when he said:――“The Law is the last
+result of human wisdom acting on human experience for the benefit of
+the public.”
+
+I should, perhaps, claim some indulgence from lawyers who may think
+my remarks unduly sketchy or incomplete. I am working within a small
+compass and writing more for the layman than for the lawyer. It is not,
+therefore, easy to treat my subject very fully or comprehensively.
+
+
+
+
+                                   I
+
+                              LEGISLATION
+
+
+In all legislation, as in litigation, there is a struggle between the
+issue and the process. The layman wants to simplify the law, the lawyer
+wants to simplify the facts. Anyone who reads the French code will
+think French Law simple; if he hears a French lawsuit he will find that
+the code has always to be interpreted in the light of past litigation,
+though French decisions are not authoritative in the same sense as ours.
+
+The House of Commons in considering a bill is often quite as ignorant
+of the subject matter with which it deals as of the legal antecedents
+of the Bill. The ordinary citizen may sometimes sit on a jury; but he
+does not administer the law in rotation as the Athenian did in the days
+of Pericles. Therefore legislation is often retarded and complicated by
+appeals to ignorant prejudice as well as by considerations of partisan
+expediency and illogical compromise. The experts rarely have the
+same chance as they had in drafting the Partnership Act, 1890, which
+summarized and boiled down a multitude of decisions.
+
+Even if Parliament cannot be trusted to legislate very coherently,
+there ought to be a department of State (_e.g._, a Ministry of Justice)
+engaged in perpetually clarifying the case law and different statutes
+of, say, the last preceding twenty-five years in order to introduce
+some coherence and simplicity into our Statutes. This, however, will
+not easily be accomplished unless the practice of allowing bureaucrats
+to draft their own rules and sit in their own courts as judges in their
+own cause be abolished.
+
+Many complaints have been made against the Common Law of England owing
+to the labour of digging up old cases and reconciling them with the
+particular subject matter to which they are to be applied; but the
+legal tangles of our time are worse than the old and are mainly due to
+the difficulty of interpreting statutes which are obscurely drafted and
+ambiguously worded.
+
+If these statutes often puzzle the judges who have to administer
+them it is not fair to the layman to say to him:――“_Ignorantia legis
+neminem excusat._” It may, therefore, be fairly presumed that future
+Parliaments will employ the most expert draftsmen they can find to
+eliminate all the defects that now import chaos, and therefore hardship
+and expense, into the community.
+
+
+
+
+                                  II
+
+                            THE LAW COURTS
+
+
+I shall not deal fully with the Law Courts as such in this chapter
+but only with the obvious tendencies of our day towards the
+decentralization and specialization of justice. It is said that justice
+must be brought to the poor man’s door; therefore the County Courts
+should have divorce jurisdiction in addition to other powers. Judges
+should sometimes have more than a general knowledge of the subject
+matter which comes before them; therefore a Commercial Court was
+set up in 1895 and a special judge is appointed to sit in it. Some
+litigants, however, in commercial as well as other disputes prefer
+to appoint expert arbitrators who rely for legal guidance on their
+personal experience of law and on the eminent counsel practising before
+them. Supporters of this movement towards specialization quote with
+approval the very fair decisions of Courts Martial or the Law Society’s
+Discipline Committee, while pointing out the comical blunders of the
+Chancery division judges when they were sent on circuit shortly after
+the Judicature Act of 1873.
+
+The Commercial Court has certainly done very good work in its thirty
+years of existence. It helps on the assimilation of laws in different
+countries on such subjects as bills of exchange, and it would be more
+important if there were more trade and if the practising Counsel’s
+clerks demanded less enormous fees. These two drawbacks should surely
+be remedied in the future and this Court is not likely to be replaced
+by any big international court working on Admiralty lines.
+
+The Admiralty Court has acquired remarkable prestige because nowadays
+foreigners more and more often refer marine disputes by consent to its
+jurisdiction, and it looks as if the Admiralty Law of England might
+soon spread all over the world like the Roman _Jus Gentium_. Even the
+Germans handsomely acknowledge the scrupulous equity of the English
+Courts as between a British subject and alien.
+
+How far divorce work can be properly specialized I shall discuss
+in a later chapter. The trend of present opinion is to resent the
+limitation of matrimonial causes to special judges because
+
+(1) This principle of limitation is rooted in the old idea that only
+ecclesiastical lawyers can properly deal with the institution of
+marriage and
+
+(2) The admission of the principle is the main obstacle to the
+decentralization of divorce.
+
+The ordinary Englishman still has the Athenian ideal of public duties
+being performed by ordinary citizens in rotation. He likes trial by
+jury and looks kindly on the patriotic efforts of an unpaid Magistracy.
+The work of the expert and professional is often unexpectedly
+illuminated by the criticism of the amateur. The liberal humanism
+of the first Lord Gorell, of Lord Birkenhead, and of Mr. Justice
+Swift――to name only three men of Liverpool――has blown away many ancient
+quasi-ecclesiastical cobwebs of the Divorce Court. The ancient wisdom
+of the Common Law has often efficiently protected the liberties of
+Great Britain from the tyranny of king, baron, and bureaucrat.
+
+The same revolt against what is conceived to be legal pedantry emerges
+in the undiscriminating support that Lord Birkenhead received in
+carrying the Law of Real Property Act through Parliament. But for
+the hatred of the Statute of Uses with which he infected the mind of
+our legislators, the necessary reforms could have been made simpler
+and better. The probable result will be the compulsory registration
+of title to land in preference to the less cumbrous system of
+Conveyancing inaugurated in 1882. Much the same conflict emerges in
+the controversy whether the legal profession should remain divided
+into barristers and solicitors. I think that this division will remain
+because it corresponds to a real division of labour; but with this I
+will deal later.
+
+It is difficult to prophesy how all these problems will be solved;
+but it may fairly be conjectured that justice of first instance will
+be more and more specialized and localized to suit modern convenience
+and the obvious needs of the poor, and that specialization will not be
+allowed to stand too much in the way of decentralization.
+
+
+
+
+                                  III
+
+                             CORPORATIONS
+
+
+In modern times the tyranny of the group is more oppressive than the
+tyranny of the individual and becomes more and more irresponsible. We
+all suffer from the arbitrary powers of the Trade Union as consolidated
+by the Trades Disputes Act, 1906, and of the limited company as built
+up by successive statutes since 1862. The Trade Union interferes with
+freedom of labour and contract, and the limited company system has
+fostered, and at the same time, protectively concealed the activities
+of the Trust. The ordinary member of a Trade Union has little power of
+controlling its policy and the ordinary shareholder would be surprised
+to learn that he was entitled to regard the director of a company as a
+trustee for the shareholders.
+
+That a Trade Union should not be responsible for its torts or that
+a shareholder should have but a strictly limited liability for the
+enterprise in which he invests, may appear common sense to the
+ordinary mind. Nevertheless a stable society reposes on the general
+responsibility of individual citizens for their acts. The industrial
+conflict of to-day shows some recognition of all this. There are
+tendencies towards giving even the unskilled workers in joint stock
+enterprise some share both of profits and management, and this may
+even extend so far as to relegate the capitalist to the position of a
+debenture holder. Obviously, however, such a result would weaken the
+hold of the Trade Unions in so far as it promoted peaceful co-operation
+between capital and labour, and it would support the old-fashioned
+alliance between English law and individual liberty. Strikes do not
+occur in the legal profession because its position is established.
+The Trade Union of the future may very possibly be no more obviously
+militant than the Bar Council of the Law Society.
+
+The successful working of smaller enterprises may often be more
+efficiently conducted by the machinery of limited partnership as
+provided by the Limited Partnership Act, 1907. The machinery of the
+Act has been neglected by solicitors who are too indolent to study
+it and by laymen who enjoy the pompous verbosity of a memorandum and
+articles of association; but in time to come it should be extensively
+adopted.
+
+The State will have to exert eternal vigilance against the power of
+private corporations such as the above; but it must also control
+public corporations and its own departments and again quasi-public
+corporations like the Bank of England. I fancy that the Banks and big
+financial trusts will acquire more and more control of public policy
+as well as of private business and that this trouble will have to get
+worse before it gets better.
+
+
+
+
+                                  IV
+
+                           THE CRIMINAL LAW
+
+
+We shall probably see in the near future some remarkable changes in the
+Criminal Law which, particularly in England, is a peculiar blend of
+barbaric violence, medieval prejudices, and modern fallacies. To-day
+its sanctions are still largely theological. For instance, suicide
+is a crime in Great Britain mainly because it is a sin against God;
+but there is a growing tendency to determinism and to regard crimes
+and punishments purely in relation to social welfare. Thus murder
+is punished by hanging because it is a deadly sin; but the public
+are beginning to distinguish between murder by poison and murder by
+violence in so far as premeditation enters into the question.
+
+There is also a disposition to avoid unnecessary cruelty or insults.
+If a man can be sterilized by a surgeon or standardized by a
+psycho-analyst, this solution of the problem will be preferred to
+indefinite loss of liberty, and where indefinite loss of liberty
+appears inevitable there is a new sentiment in favour of painless
+extinction. The modern criminal is either to be reformed by prison or
+else shut up for life and given such amenities as beer and tobacco to
+console him for loss of liberty. He used to be looked upon as possessed
+by the devil. To-day he is regarded as an imperfectly constructed
+creature who cannot safely be left at large if his defects cannot be
+set right.
+
+This scientific point of view is in some respects not so human as
+the Christian attitude; but it makes for politeness to the criminal.
+The younger judges (_e.g._, Mr. Justice Finlay) are courteous and
+sympathetic even when pronouncing sentence of death. The scolding
+manner of the old type of judge will probably disappear in the next
+twenty years, and perhaps we shall one day escape even the intolerable
+inquisitiveness and pharisaical insolence displayed by the less
+gentlemanly type of coroner, who presumes on the anomalous privileges
+of his venerable Court to ransack irrelevant details and censure
+long-forgotten irregularities in the lives and careers of persons
+sufficiently unfortunate to be united by kinship or friendship to
+suicides and murderers. Sir Hall Caine recently made an useful protest
+on this point.
+
+The famous narrative of the execution of Socrates by voluntarily taking
+hemlock is not very creditable to our modern civilization. Socrates is
+surrounded by his friends and his executioner is civil and amiable.
+Socrates feels that this death is due to a certain blindness on the
+part of his fellow-citizens to the importance of what he has to tell
+them; but this collective stupidity does not diminish his respect for
+the laws of his country. He is perfectly willing to suffer death in
+order to vindicate laws which, taken as a whole, are essential to the
+public safety. “Father, forgive them for they know not what they do”
+are words which would have fitted quite naturally into Plato’s account
+of the famous scene. The last utterances of many criminals have often
+implied an acquiescence in the public necessity of laws which pinch the
+individual hardly at certain crises of life.
+
+A man is found guilty of rape if by persistent effort he has tired the
+woman out or weakened her impulse to resist him. That may seem harsh
+but is it any less harsh than to hang a man who has been mercilessly
+nagged for an hour by an uncongenial wife after years of matrimonial
+misery aggravated by the irritant of chronic semi-starvation? On the
+other hand, this condemned criminal may feel that by his death he is
+providing a better security for human life in time to come, just as,
+according to William James, the vivisected dog might (if properly
+instructed) know that he was helping to save both dog and man from the
+ravages of incurable disease.
+
+It may be hoped that crime may be reduced by legal reforms. The
+reform of marriage and divorce laws should reduce conjugal murder,
+legitimation by subsequent marriage should reduce infanticide, the
+abolition of really grinding poverty should reduce all crimes of
+violence, and the reform or repeal of certain laws relating to offences
+which concern only adult individuals and not society at large should
+reduce blackmail.
+
+
+
+
+                                   V
+
+                              FAMILY LAW
+
+
+Under family law I group marriage, divorce, guardianship, and
+inheritance, and I shall assume, for the purposes of my forecast,
+that the family will continue to exist as an institution and may
+even be taken more seriously by the legislators of the future than
+by the legislators of to-day, whose collectivist bias has taken the
+form of trying to abolish every relationship of the individual except
+his relationship to the State as citizen. I am inclined to think
+that marriage laws will become more rational, that legitimation by
+subsequent marriage will become law in England and Wales as well as in
+Scotland, that there will be a law of adoption as on the Continent, and
+that there will be a system of divorce by consent recognized as such as
+well as divorce for matrimonial offences.
+
+There should be no difficulty as to a law of adoption on Continental
+lines. If anyone chooses to adopt a child and expend toil and money on
+training and educating the child, that person should have some security
+for quasi-parental control. If industrial schools are entitled to
+disregard parental emotions, why should not benevolent individuals, be
+rewarded for exertions made with the original consent of the parent?
+
+Legitimation by subsequent marriage presents no difficulty except as to
+the question of adulterine bastardy. At first sight it seems difficult
+to allow legitimation except when the parents of the bastard were
+originally capable of marrying; but considering the shocking anomalies
+of divorce in England and Wales there is a strong case for legitimating
+the adulterine bastard when possible and it has been done in some
+British colonies. A compromise may be reached by limiting the period of
+such legitimation to, say, twenty-five years from the date of the Act.
+
+Any measure of divorce law reform for England and Wales will merely
+bring the country into line with Europe on the one hand and the
+Colonies and the United States on the other. I see the divorce court
+of the future in two departments. The first department will deal
+with divorces by consent, protect all parties from rash and heedless
+decisions, adjust question of property, and deal with the problems of
+guardianship. I imagine that divorce by consent will be subject to a
+time limit of two or three years, and that all separations, whether by
+decree or by voluntary deed, will mature into divorces after a certain
+period of time. I hope that in the future divorce by consent will have
+a time limit as opposed to the present system under which there is none.
+
+The second department will deal with contentious cases in which
+injury has been done. The judge will make every preliminary effort to
+reconcile the parties, and the strictest privacy will be observed,
+according to the Continental custom and to the old usage of nullity
+suits in England where impotence was alleged. The present system of
+divorce (which is a sort of surgical operation) is carried out rather
+like a surgical operation without anæsthetics or aseptic precautions,
+in deference to religious prejudice.
+
+As regards the matrimonial offences for which divorce would be granted,
+cruelty and desertion will certainly be included among them, and
+probably imprisonment in the case of criminal lunatics. If the future
+development of the criminal law results in more permanent detention,
+then public sentiment will not be so much opposed as it is now to
+the possibility of divorcing a spouse condemned to a long sentence
+of imprisonment. The same attitude will obviously prevail in regard
+to the detention of criminal lunatics, and probably also all other
+lunatics where the disease has been continuous for five years and is
+pronounced by experts to be incurable. But presumably the lunacy laws
+will be thoroughly revised and safeguarded before any divorce for
+lunacy becomes possible.
+
+In regard to the financial side of divorce, it is to be hoped that any
+alimony given to an innocent wife may at least be reducible if she
+marries a wealthy man, and that among the poor the innocent wife will
+be given a far better chance of enforcing her claim for alimony than
+she is given now. American practice may profitably be followed on this
+point. Whether public sentiment will continue to approve the award
+of damages to a husband for the loss of his wife remains to be seen.
+This may be justified in some cases, as, for instance, where the wife
+supports the husband or is a rich woman and her breach of the marriage
+contract involves him in pecuniary loss; or where the children, who in
+such circumstances are already prejudiced by losing the joint care of
+both parents, are also likely to lose financial advantages by reason
+of their mother marrying another man. In such a case it does not seem
+unfair that the co-respondent should make some provision for them if he
+is in a position to do so.
+
+There remains the question of guardianship, whether in relation to
+marriage or divorce, and there seems little chance of this being
+altered, except that possibly a mother, and especially a mother guilty
+of adultery, may have more power in regard to her children than she has
+now. Modern opinion is certainly tending to the view that the act of
+adultery is not always incompatible with maternal love and efficiency
+and that an unchaste mother is at least preferable to a cruel or
+mentally deranged mother.
+
+In regard to poor persons, I deal with the question generally in a
+later chapter. But while on the subject of divorce, I suggest that
+justice must one day be brought to the poor man’s door either through
+the county court or the police court or some other court. If police
+court separation orders are to mature into divorces, the police
+magistrate is obviously the best person to decree a divorce at the end
+of the period in question, and possibly he could even hear defended
+cases. But trustworthy observers state that the police magistrate is
+often quite unjust to a husband accused by a wife, either because he
+thinks that all wives are in the right or because the husband is sulky
+and verbose. The magistrate could, of course, do his work very much
+better if both parties were legally represented, and if police court
+solicitors ever form a rota to assist poor persons after the Scottish
+fashion, better justice may be done.
+
+I fancy, however, that the problem may be solved as it is in the United
+States, by establishing courts of domestic relations. Apparently, these
+courts do their work at comparatively little expense; and this work
+is by no means confined to matrimonial disputes. The judges do, in
+fact, reconcile many husbands and wives and adjust disputes that might
+otherwise ruin many homes; but they also step in to regulate questions
+of guardianship in cases where regulation is required. The lay reader
+may possibly regard this as undue interference with the institution of
+the family; but any lawyer acquainted with the beneficent jurisdiction
+of the Chancery judges where minors are concerned, would naturally
+wish the poor to have the same advantages in this respect as the rich,
+and I, therefore, imagine that within fifty years courts of this
+description will not only have divorce jurisdiction but will also have
+the same powers as the Chancery judges now have over a ward of court.
+I shall deal with this question more fully in a later chapter.
+
+
+
+
+                                  VI
+
+                             THE LAND LAWS
+
+
+The abolition of the Statute of Uses by Lord Birkenhead will be
+an accomplished fact on the 1st January, 1926. Copyhold and other
+picturesque tenures of the middle ages are to be abolished, the law of
+real property is to be assimilated to the law of personal property,
+women are to be put on an equality with men as regards the laws of
+descent, and primogeniture is to be abolished. This is all, no doubt,
+very sensible, but also depressing for anyone who likes to feel a
+certain sense of continuity with the past. It also precipitates the
+coming conflict between the Collectivist confiscation of land and the
+ideal of small or peasant proprietorship. The land laws of the future
+will, of course, depend on which party gains the day.
+
+The consistent hostility of all ministries to agriculture is due to the
+fact that Free Trade is now one of the regular ruts of British finance,
+and even the peasant proprietor of France or Denmark would not flourish
+without a certain amount of consideration from the State. Should the
+voters of Great Britain swallow all the nonsense preached by the
+followers of Henry George and Lloyd George in regard to land monopoly,
+the ruin of agricultural prosperity and of the lovely landscapes of
+Great Britain may confidently be anticipated; but should the wide
+distribution of land among smallholders continue under the _ægis_ of
+public favour, we may see the legal encouragement of freehold tenure
+on Canadian or American lines and even of the tenant being able to buy
+out his landlord on fair terms. It is curious that New Zealand, which
+adopted State Socialism on a large scale in the nineties, is now mainly
+governed by individualistic business men and land-owning farmers.
+
+The big landlords play into the hands of Collectivists by allowing
+their agents to do as they like. I, for instance, twenty years ago
+bought a long lease of a house in St. John’s Wood, which will expire
+just when I do not want to leave my happy home. I have a delightful
+garden shaded by poplars and beeches which will probably be covered
+one day by a block of untenanted flats. I want if possible to secure
+my position and am quite ready to pay any fair price for the freehold
+or for an extension of the lease. The Eyre Estate (my landlord) will
+not even condescend to answer a letter of inquiry, and my experience
+is by no means unique. No one is more disposed to be friendly with big
+landlords than I am, for some of them are profitable clients; but my
+own experience of the Eyre Estate impels me and many others to welcome
+any law which will make the tenant less of a worm in the eyes of his
+landlord.
+
+The old system of entail and strict settlement will presumably
+continue for some years with the aid of money derived from industrial
+magnates and American heiresses. The conveyancers of Lincoln’s Inn
+may be trusted to preserve institutions in defiance of legislation
+just as they abolished, for all practical purposes, the right of dower
+in the eighteenth century. The principal question is whether there
+will be sufficient money or inclination to support the old system in
+order to prevent places like Chatsworth and Warwick Castle from being
+converted into public schools or lunatic asylums. If there is, then the
+lawyers will be equal to the occasion, and already many big estates are
+preserved from destruction by being turned into limited or (preferably)
+unlimited companies.
+
+Legal change depends on financial upheavals and human desires. The
+desire to found a family and to buy a big estate is deeply ingrained
+in Great Britain. The old aristocracy may go and a new aristocracy may
+arise. But it may well be doubted if any new race of landowners will,
+under the new conditions of being mulcted at every turn during life
+and after death, be able to do for the countryside what the old type
+of Squire did for his tenants――especially in times of agricultural
+depression――or show anything like the same personal interest in the
+cultivation of the land.
+
+The best development which is at all likely to occur is the growth
+of an agricultural system on Danish lines, and this would certainly
+simplify the land laws.
+
+
+
+
+                                  VII
+
+                           COSTS AND FUSION
+
+
+A friend of mine once remarked to me that the rich never legislate for
+the poor but always for the rich, to which I retorted that the poor
+never legislate for the poor but always for the rich. The Labour Party
+is ready enough to attack any wealth which no longer exists, such as
+the so-called wealth of rural land-owners, but will never attack a
+really bloated Trust such as an international industrial company; nor
+are they ever likely to make such an attack. (I took care to satisfy
+myself on this point before buying shares in one such company.) It is
+therefore improbable that even should the Labour Party obtain permanent
+power it will ever try to make law cheap for the poor; and the only men
+and women who have ever taken any steps in this direction are the few
+who realize that the pillars of society repose upon a belief in equal
+justice for all.
+
+I fear that I can see no prospect for at least fifty years of law costs
+being reduced either for the rich or for the poor. So far as the rich
+are concerned, one might suppose that they would insist upon the law
+being codified into some degree of simplicity so that two citizens
+might be able to arrive at their legal rights by successive postcards
+referring to different sections of the code. That is the Utopian
+ideal once expounded to me by Mr. H. G. Wells; but as years go on it
+becomes more and more remote. Popular government leads to the endless
+complication of statutes; and even if these statutes were intelligible,
+the increasing power of bureaucrats to make rules for themselves
+becomes more and more profitable for the lawyers.
+
+I presume that one day the poor man will be allowed to obtain justice
+within reasonable distance of his home. It is remarkable that a large
+number of muddle-headed persons who wish to subsidize not only the poor
+man but also his childless widow and any number of children whom he may
+wish to procreate, have never understood that he might like also to
+obtain justice, especially in the matter of domestic relations. Poor
+persons ought certainly to have as good a chance of obtaining a divorce
+as they have of being married, and also to have a chance of defending
+vexatious proceedings on the part of either spouse. It is monstrous
+that husbands should be treated as they are now in the police courts,
+and arrested for arrears of maintenance as soon as they have finished a
+term of imprisonment which in most cases they would never have incurred
+but for a deep conviction of injustice.
+
+If the community ever becomes sufficiently enlightened to provide
+justice for the poor, I think that they will probably adopt the
+American example of what are called Courts of Domestic Relations.
+The Secretary of the Divorce Law Reform Union has received some
+interesting communications on these courts from Judge Lindsey in Denver
+and Judge Hoffman in Cincinnati. Judge Lindsey’s testimony is as
+follows:
+
+    “I am confident, after twenty-three years as a Judge of a
+    Domestic Relations Court in America――where I granted thousands
+    of divorces and heard other thousands of separation and
+    non-support cases and controversies between parents over their
+    children――that a liberal divorce law contributes to morality,
+    decency, and, in the end, the strength of the home; but I shall
+    probably have to write a book, based on my experiences, to
+    prove it. A short article or interview is capable of so many
+    misunderstandings and misinterpretations, even though it be not
+    wilfully done.
+
+    “The fact that in some western cities we have a great many
+    divorces does not mean an increase in immorality, or even an
+    increase in the breaking up of homes. It is often the very best
+    thing that could happen. Of course, it is our policy in this
+    Court to get discordant couples together where we can; but
+    there are some cases where we would consider it nothing short
+    of a crime to try to get them together, and on the contrary
+    try to get them apart, but all in the interest of morality and
+    decency.
+
+    “I am judge at this time of what is known as a separate,
+    special Court, in a city of nearly 300,000 people in one of our
+    western cities (Denver, Colorado). The State has a population
+    of about a million people; but my jurisdiction is limited to
+    its capital city, which has nearly one-third of the population
+    of the entire State. The western part of the State is very
+    mountainous and sparsely settled; the eastern part is mostly
+    arid country and at present without irrigation, being also
+    sparsely settled; but there are certain sections of the State
+    which are very good for agriculture and others rich in mineral
+    resources; and as a commercial centre, Denver is a delightful
+    and beautiful city, made up of the best people in the world.
+
+    “Last year we had in this city about 3,000 marriage licenses,
+    and about 1,500 applications for divorce, with perhaps not
+    over 1,000 of them granted. We have a city of excellent homes
+    and exceptional laws for the protection of children, and the
+    morality of our people is equal to that of the very best.
+
+    “I am sorry that we have not as yet completed the contemplated
+    report of this Court, which we expect to have printed. I am
+    hoping to have it ready in about six or eight months, and I
+    think it will be a volume that will greatly interest your
+    readers.
+
+    “This Court has jurisdiction over all children’s cases, and all
+    youths under twenty-one, all cases of non-support or desertion
+    of wives or children, and of controversies of parents over
+    their children, and practically all criminal cases where the
+    accused has committed an offense against a child. Thus, it
+    is a special tribunal for the _correction_ and _protection_
+    of children and some cases of domestic relations. We do not
+    now have the divorce cases proper, although I tried them for
+    seven or eight years exclusively. The reason for this is that
+    happily most of those cases are between couples who have no
+    children, and the divorce cases take up too much time from the
+    more important work dealing with children’s cases. However, in
+    a divorce case where there is a controversy between husband
+    and wife over the custody of a child, it may be heard, and
+    frequently is heard, in this Court. A Bill is now before the
+    Legislature which will practically require the hearing of most
+    of these cases in this Court.
+
+    “We have visitation and probation officers, medical clinics,
+    physical and psychological, which aid and assist us. The work
+    of this Court, in a word, is more that of a place of human
+    adjustment――adjustment of human difficulties growing out of the
+    relation of the sexes, married or unmarried. To my mind this is
+    the most important kind of a tribunal and ought to exist in,
+    say, ten or fifteen districts in London instead of the system
+    you have of dividing the work into many courts where none of
+    them are equipped as experts. An address which I delivered
+    nearly ten years ago still covers a great deal of my ideas on
+    the ideal tribunal of this kind.
+
+    “The budget of this Court for all its work in its various
+    divisions, last year, was about $30,000. I believe with
+    you that would be about £5,000 or £6,000. This includes
+    the salaries of the judge, the clerks, probation officers,
+    stenographers, visitation agents, specialists, etc. We heard
+    and disposed of about 3,000 cases last year at an expense
+    of about $10.00 per case (about £2). Perhaps in half of the
+    cases of domestic difficulties we were able to bring about an
+    amicable settlement and restore the relations in the home. In
+    perhaps twenty-five per cent. of them we were quite agreed that
+    no effort should be made to restore such relations unless we
+    wished to contribute to crime and immorality. Of course, in
+    most of such cases the old church view would be to persuade the
+    people to live together in a state of what to us is sin and
+    crime, but with the church is considered perfectly proper.
+
+    “When we have to send a youth to the State prison, jail or
+    reformatory, we send him by himself on trust and honour,
+    without an officer and without official restraint. Out of some
+    eight hundred thus committed in the last twenty years, we have
+    never lost a prisoner.
+
+    “We very seldom swear a witness in the Court, and seldom
+    take testimony. The cases are tried by what we call the
+    administrative method. For example, the wife will consult with
+    me one day, the husband the next, and then both together. I
+    could see a witness for either side at any time. We listen to
+    anyone who wants to talk, so long as they do not all talk at
+    once. We have no rules of evidence and no Court costs, and, as
+    a rule, no lawyers’ or counsel or solicitors’ fees. The judge
+    of this Court is a human adjuster of human difficulties without
+    cost or expense to the parties involved.
+
+    “Most of the people involved in sex cases come here voluntarily,
+    even though the cases may involve criminal offences. People
+    never lie to us, although it is very rare that they are ever
+    sworn to tell the truth. In most cases their own papers are
+    prepared by the clerks of the Court for both sides, without the
+    need or aid of lawyers or solicitors. I should say that in not
+    over one case in fifty does any lawyer ever appear. Of course,
+    if they wish to appear they have a right to, but, as a rule,
+    litigants do not want them because they do not need them. In the
+    saving of counsel, solicitors’, and Court fees for litigants,
+    many thousands of dollars have been saved, and other financial
+    savings during my administration have amounted to millions of
+    dollars, as can be shown by the records. There is, perhaps, not
+    an “exception” or an appeal――though that right is allowed――in
+    one case out of five thousand in this Court. In other words, it
+    is a Court of justice without any of the hampering hobbles that
+    make for perjury and crime in other courts, as we have found
+    from actual experience.”
+
+Judge Hoffman writes as follows:――
+
+    “It being fairly well conceded by scientific social workers
+    that delinquency of children, divorce, desertion, and adult
+    criminality are inter-related and in great measure originate in
+    the family, it was determined in 1914 in the City of Cincinnati
+    to organize a court that might deal with the family situation
+    as a whole; consequently, in that year the Legislature of the
+    State of Ohio provided such a court for Hamilton County, in
+    which the City of Cincinnati is located.
+
+    “Hamilton County has nine Nisi Prius Judges, designated in
+    our State as the Judges of the Court of Common Pleas. The law
+    stipulated that at the next election of the Judges of the
+    Court of Common Pleas one should be designated on the ballot
+    as Judge of the Court of Common Pleas, Division of Domestic
+    Relations, and to the judge so elected, the judges in joint
+    session should assign all divorce and alimony cases, all cases
+    of desertion and all cases arising under the Juvenile Court
+    Act, which includes contributing to delinquency and dependency.
+    As the Juvenile Court administers mothers’ pensions, this also
+    comes under the jurisdiction of the so-called Court of Domestic
+    Relations or, as it is termed in this city, Family Court.
+
+    “The purpose of the Court was that of securing more efficient
+    handling of the problems of an anti-social character that
+    arise in the family, and also of ascertaining, if possible,
+    the causes of family dissension and disruption. While the
+    law does not so provide, yet we have been able to organize
+    a psychological and psychiatric clinic in connection with
+    the court. The clinic now has three psychologists and a
+    psychiatrist; in addition thereto, a physician for the purpose
+    of making physical examinations of girls.
+
+    “The Juvenile Court procedure has all but disappeared. We do
+    not believe that a court procedure has any therapeutic value
+    in the handling of children afflicted with that which we term
+    the disease of delinquency. It has been found possible for us
+    to prevent the sending of children to the industrial schools,
+    reformatories, or correctional institutes of any character.
+
+    “In this State we have an industrial school that now has
+    a population of 1,200 boys. Cincinnati has a population
+    of 500,000 and is the second largest city in the State.
+    Notwithstanding this fact we have but two boys in the industrial
+    school at this time and these two have been committed to that
+    institution only because we have found them to be incurable and
+    there is no other institution in the State that is equipped to
+    handle cases of this kind. We hope to remedy this defect at an
+    early date. We have sent no girls to the State industrial school
+    for three years last past.
+
+    “It is a well-established fact that the anti-social behaviour
+    at the basis of divorce is exceedingly injurious to children;
+    therefore we use our probation force in the divorce division
+    and attempt to care for the children involved.
+
+    “We have a central record system in which the history of the
+    whole family is recorded. We find that in 30 per cent. of the
+    divorce cases the family has previously appeared in some way
+    in the Juvenile Division. The significance of this fact is
+    apparent.
+
+    “We have found, too, that the grounds for divorce mentioned in
+    the petition or complaint are but descriptive of the symptoms
+    of the real causes that are seldom, if ever, mentioned in the
+    petition or appear in the evidence. In fact, so far as the
+    court procedure is concerned, the real causes would never be
+    revealed. We made an intensive pathological investigation and
+    examination in about 1,400 cases. The facts revealed in these
+    examinations are of such a nature as to utterly refute the
+    doctrine that in no instance ought a divorce to be granted or
+    that a party should be prevented from obtaining a legal relief
+    by a restricted divorce law or by making the divorce procedure
+    so costly as to prevent the party from obtaining any relief
+    under it.”
+
+There are also certain other points which may one day be settled in
+order to give justice to the poor. One of them is the question of costs
+for an innocent person arrested on a criminal charge. It seems to me
+only right that if the prosecution fails the prisoner should have a
+right to obtain costs against the Crown even if he is not allowed
+the right of suing the Crown for damages for malicious prosecution,
+which, I think, should exist just as much as in the case of malicious
+prosecution by a private individual. In regard to murder, the prisoner
+has the special advantage of being able to give exclusive rights to
+some particular newspaper in consideration of the newspaper financing
+his defence; but in so far as this leads to a disproportionate amount
+of limelight being thrown by the said newspaper on the private life of
+the family history of the criminal, it tends to have a demoralizing
+effect. This advantage is at any rate denied to the ordinary poor man
+who is wrongfully arrested on some minor and scandalous charge, and the
+situation to-day is enormously aggravated by the employment of narks
+or decoys in mufti by the police.
+
+I imagine that many of these reforms will be carried out by the
+Ministry of Justice which was so ardently advocated by the late Mr.
+Samuel Garrett as a substitute for the overworked Lord Chancellors of
+our day. But perhaps I need hardly recapitulate here the arguments for
+such a ministry which are set out in my book _Concerning Solicitors_.[1]
+
+  [1] Published by Chatto & Windus.
+
+Personally I believe that justice for the poor can be and will be
+achieved mainly on the Scottish system, which provides a rota of
+counsel and solicitors for poor persons in both civil and criminal
+matters. Many publicists, the most eminent of whom is perhaps Walter
+Bagehot, have imagined that cheap law could be achieved by what is
+called the fusion of solicitors and barristers. I gravely doubt
+whether this process will ever take place in Great Britain, or
+whether, if it did, it would have many of the advantages which have
+been attributed to it. Some years ago I took the trouble to make some
+enquiry into the matter, and I obtained expert opinion in regard to the
+Colonial and American system, under which fusion has been established.
+It works fairly well in the higher courts of sparsely populated
+colonies, for there the need for specialization is not so acutely felt
+as in big cities, where more money is usually at stake and where the
+solicitor has much more work to do in his own office. On the other
+hand, even where fusion exists, it does not abolish the essential
+division of labour in regard to preparing a case for hearing and
+expounding the case in court. The information which I obtained resulted
+in the following conclusion:――(1) Fusion would not tend to make law
+any cheaper in Great Britain and it certainly does not make law any
+cheaper in the Colonies or in the United States. (2) Fusion would not
+mean greater despatch in dealing with business. (3) The client would
+not obtain better advice, because where fusion exists the firm of
+lawyers whom he consults prefer the opinion of a partner to that of a
+specialist in another firm.
+
+We may possibly see the lay client enabled to consult counsel direct
+where litigation is not concerned and the solicitor’s right of audience
+in the High Court slightly extended.
+
+
+
+
+                                 VIII
+
+                       PRIVATE INTERNATIONAL LAW
+
+
+In a previous chapter I pointed out that our Commercial Court practice
+was not tending to the creation of international Courts; but some
+merchants are entering into international arbitration agreements to the
+exclusion of their national courts and it is said that these work well,
+though they involve more delay. The progressive creation of public
+international tribunals may encourage the growth of similar tribunals
+for settling private disputes; but the principal outstanding obstacle
+to international agreement on questions of status and property is the
+conflict between the tests of nationality and domicil.
+
+In the British Empire we have at last achieved an Imperial Nationality
+and alongside of it exists a local nationality which will vary
+according to the laws of each colony, which prescribe different periods
+of residence. If this movement for uniformity continues it may have
+great results. Nationality at present concerns a man’s property very
+little――in the United Kingdom not at all except as regards the capacity
+of owning ships. It gives certain political privileges; but the law
+affecting marriage property and contracts has nothing to do with
+nationality, and in this respect it differs sharply from the laws of
+continental nations. A contract according to English law (whether for
+sale or marriage) is good if valid according to the laws of the country
+in which it is drawn up and made. Personal or “movable” property is
+dealt with according to the law of a man’s domicil (except in the cases
+of bankruptcy or liability to income tax which turn upon residence),
+and although a marriage contract is good in England, whatever the
+domicil of the parties, it cannot be dissolved except in accordance
+with the law of the country which is the husband’s domicil. (Land is
+dealt with according to the law of the country in which it is situate.)
+Clearly, therefore, the domicil is the most important test of all the
+English-speaking world, yet it is of all tests the most uncertain.
+The late Professor Dicey, in his last edition of the Conflict of
+Laws, admits the extraordinary difficulties surrounding the subject,
+especially in the case of what is called “Anglo-Indian domicil” and the
+possibility of determining the intention of the person whose domicil is
+called in question, for domicil depends entirely on (1) residence and
+(2) the intention to remain in the place of residence. In many cases it
+may be said that a person’s domicil cannot be decided till he dies, and
+even then perhaps not with certainty.
+
+The doctrine of domicil grew up under the Roman Empire, which comprised
+many local systems of law, but only one citizenship. It became an
+essential doctrine of English law and is common to the English-speaking
+world except where the test of residence alone has been substituted,
+_e.g._, for divorce jurisdiction in the United States, formerly in
+India, and in one or two of the Colonies, _e.g._, New South Wales. In
+these cases a conflict of laws at once arises between the tests of
+residence and domicil, so that, _e.g._, a wife who obtains a divorce
+in New South Wales finds that it is not recognized in England if the
+husband has an English domicil.
+
+A different conflict arises between the laws of almost all continental
+countries and the laws of English-speaking countries, because the
+continental jurists have adopted the tests of nationality instead of
+domicil. Anyone acquainted with the doctrine of the _renvoi_ and with
+the liability to double death duties and general uncertainty of status
+in connection with marriage, divorce, and legitimacy resulting from
+this conflict must certainly agree that the present system is anomalous
+and defective.
+
+The best solution of these difficulties would be:――
+
+(1) To establish an uniform nationality for the Empire coupled with the
+test of residence in regard to local laws, such as we should see in the
+United States if the Americans adopted residence instead of domicil as
+the test in every State, and
+
+(2) To substitute an uniform test of residence for domicil while
+safeguarding certain convenient doctrines by international, as well as
+imperial, convention.
+
+It is, for instance, highly undesirable for a Frenchman to carry about
+with him an incapacity to marry under 25 without parental consent
+wherever he goes. If he marries an Englishwoman in England the French
+Courts must be induced to admit that the marriage contract is good if
+celebrated according to English law. This also applies to Italy.
+
+Again there is an obvious convenience in the old rule that land must be
+dealt with according to the law of the country where it is situate, and
+personal property according to the law of the domicil (or, as I should
+prefer to have it, the law of the local nationality).
+
+It is anomalous that a colony like British Columbia should exact death
+duties on shares held in an industrial company trading in Vancouver by
+a deceased Englishman domiciled in England. A special order in Council
+enables the executors of the Englishman to recover the estate duty they
+have to pay on such shares before the will can be proved; but it does
+not relieve them from the nuisance of filling up forms to supply a vast
+quantity of absurd and irrelevant information compared with which the
+famous Form 4 was positively pleasurable.
+
+To establish the test of nationality would at once sweep away most
+of the worst cases of conflict between our own test of domicil and
+the continental test of residence. There would be comparatively
+little confusion as to what law should be applied in most cases. If
+an Englishman died in France his Imperial nationality would at once
+determine the principle that his status and property were in no way
+involved in any question of a French domicil, and his English “local
+nationality” acquired either by birth or residence would determine the
+rest. This would entirely fit in with the laws of the Continent.
+
+The same facilities would make for uniformity in the marriage laws
+throughout the Empire. An Imperial subject living in, _e.g._, the
+West Indies or the Channel Islands (where there is no divorce) would
+be entitled to obtain a divorce according to the law of England or
+Scotland or any colony in which divorce existed by, say, five years’
+residence. The period of residence and nationality are indisputable
+facts; the domicil is not. Take, for example, Scotland. A woman may
+divorce her husband in Scotland, yet the Scottish law permits her
+husband within 40 years after the decree to go to the Court and annul
+the decree on the ground that his domicil was not, at the time of the
+suit, Scottish, although he may have put in no such defence at the
+time. A law which clearly could not be invoked except after a period of
+five years’ continuous residence, without regard to what the husband’s
+intentions were or where he happened to own houses or land, makes for
+order where the present law produces chaos. Under my system the husband
+will no longer be able to say, “I had property in Scotland, but I did
+not often reside there; I have now decided to let it, and my present
+intention is to die in Timbuctoo.”
+
+The test of residence would also solve the difficulties of a wife
+living apart from her husband because she might be allowed to acquire
+the right of invoking the laws of the country in which she resides, as
+she can to-day in England when she asks under the old ecclesiastical
+rule for a judicial separation or nullity of marriage, and this right
+would be recognized throughout the Empire.
+
+Every day the tests of nationality and residence are gaining ground.
+Every day the test of domicil gives rise to more complicated disputes.
+Unless we mend our ways in time, the present confusion will become
+rapidly worse confounded.
+
+I venture to think that a reform which so obviously appeals to the
+common sense of mankind must arrive within at least fifty years. It
+involves rather less hard work than the Birkenhead Statutes about real
+property.
+
+There are many persons to-day who either have a double nationality or
+no nationality; but these anomalies are for the most part due to the
+absence of international agreement owing to the gulf set up by the
+conflict of domicil and nationality.
+
+
+
+
+                                  IX
+
+                          INDIVIDUAL LIBERTY
+
+
+In other books I have shown how individual liberty originated with
+the Stoic philosophy and was developed under the Christian religion
+and through the feudal system of medieval Europe. It was fostered by
+Humanism; it was idealized by Puritans like Milton in the seventeenth
+century and by the English writers and philosophers of the eighteenth
+century. It was still further expanded by men like Jeremy Bentham and
+John Stuart Mill in the nineteenth century. From 1880 onwards, the
+Collectivist Germanophil tendencies which Mr. Belloc has grouped
+together under the general description of “The Servile State,” has
+led to a contempt for human liberty due to the multiplication of
+propertyless wage-earners living in huge cities and divorced from the
+property-loving existence of the yeoman and peasant. This development
+goes back to the industrial revolution. Democracy values equality more
+than liberty, and the Great War destroyed many individual privileges
+which have not yet been restored. Modern Puritanism similarly
+reinforces the effort to impose on the Community a rigidly standardized
+existence with no outlet for individual preferences in architecture or
+food or drink. Every hour must be of the same pattern and everyone must
+do everything at the same time.
+
+The increasing Americanization of Great Britain may well breed despair
+in anyone who wishes to see the ideals of the aristocrat, the humanist,
+and the peasant preserved by law. It may be that the last refuge of
+liberty will be found in the Catholic Church, which was the only
+religious body with sufficient courage to resist Prohibition in the
+United States, and that the Common Law of England, inspired throughout
+by traditions of freedom, will be gradually extinguished by a multitude
+of pettifogging Statutes, each destroying piecemeal some little vestige
+of a period when a man could call his soul his own.
+
+There is, perhaps, only one reassuring sign of the times, which is that
+the lawyers both here and across the Atlantic have as yet shown no
+disposition to repudiate the traditions of English jurisprudence and
+efforts to increase the right of search in private houses (as in the
+case of the Wireless Bill) have been stubbornly resisted in Parliament
+on this side of the Atlantic.
+
+We stand, perhaps, at the parting of the ways and it is difficult to
+discern whether the old alliance of law and liberty will endure; but it
+is to be hoped that the ordinary citizen will take to heart the obvious
+truth that if liberty cannot exist without law, law equally depends on
+liberty based on responsibility, for any law which weakens or destroys
+liberty breeds anarchy. Recent history has confirmed this platitude
+both in Russia and in the United States of America, so perhaps we may
+hope for the best while not abating any vigilance. There are, however,
+most disquieting signs in Great Britain of gross tyranny exerted by
+our new bureaucracy against taxpayers and by the police against young
+men and women――verging on blackmail in certain cases. The Victorian
+ideal of liberty is dead and no other ideal has yet come to life. “Quis
+custodiet custodes?”
+
+
+                   *       *       *       *       *
+
+
+ Transcriber’s Notes:
+
+ ――Text in italics is enclosed by underscores (_italics_).
+
+ ――Punctuation and spelling inaccuracies were silently corrected.
+
+ ――Archaic and variable spelling has been preserved.
+
+ ――Variations in hyphenation and compound words have been preserved.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK LYCURGUS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
