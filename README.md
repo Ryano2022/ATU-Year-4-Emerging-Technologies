@@ -1,4 +1,5 @@
 # Tasks and project for my Emerging Technologies module.
+Below will be all the explanations on my tasks in this module.
 
 ## Task 1: Third-order letter approximation model
 Defined a method to clean the text. 
