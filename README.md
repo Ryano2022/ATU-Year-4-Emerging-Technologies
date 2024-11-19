@@ -11,10 +11,10 @@ Goes through the entire text and finds every trigram and puts it in to a diction
 ## Task 2: Third-order letter approximation generation
 
 
-## Task 3: Analyze your model
+## Task 3: Analysing my model
 
 
-## Task 4: Export your model as JSON
+## Task 4: Exporting my model as JSON
 
 
 ## Project: Eliza chat bot
