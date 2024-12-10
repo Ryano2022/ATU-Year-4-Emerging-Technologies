@@ -14,10 +14,10 @@ Loop through the dictionary of trigrams.
 Find the trigrams that includes the last two characters to get the weights.
 Use the weights to predict what to add next.
 
-## Task 3: Analyze your model
+## Task 3: Analysing my model
 
 
-## Task 4: Export your model as JSON
+## Task 4: Exporting my model as JSON
 
 
 ## Project: Eliza chat bot
