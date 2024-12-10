@@ -13,7 +13,10 @@
 
     <div class="chat-container">
       <div id="message-history" class="message-history"></div>
-      <input type="text" id="message-input" class="message-input">
+      <form class="input-form" autocomplete="off">
+        <input type="text" id="message-input" class="message-input" maxlength="150">
+        <button type="submit" class="submit-button">Send</button>
+      </form>
     </div>
   </body>
 </html>
