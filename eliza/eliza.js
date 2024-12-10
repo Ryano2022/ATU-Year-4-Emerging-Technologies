@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const messageDiv = document.createElement('div');
             messageDiv.innerHTML = "<b>You:</b> " + message;
             messageHistory.appendChild(messageDiv);
+            messageHistory.scrollTop = messageHistory.scrollHeight; // Auto-scroll to bottom
             input.value = '';
         }
     });
