@@ -1,0 +1,37 @@
+.no-scroll {
+  overflow: hidden;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.message-history {
+  border: 1px solid black;
+  flex-grow: 1;
+  overflow-y: scroll;
+  margin-bottom: 10px;
+}
+
+.message-input {
+  height: 80px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  padding: 0 15px;
+  font-size: 16px;
+}
+
+h1, p {
+  text-align: center;
+}
