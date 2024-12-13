@@ -17,6 +17,19 @@ Below will be all the explanations on my tasks in this module.
 
 You should also be able to run this in default codespaces or download as .zip to avoid downloading Git.
 
+## Usage
+1. Clone the repository or download the ZIP file.
+2. Install the required Python packages using pip:
+   ```sh
+   pip install numpy jupyter
+   ```
+3. Open the Jupyter notebook:
+   ```sh
+   jupyter notebook trigrams.ipynb
+   ```
+4. Run the cells in the notebook to execute the tasks.
+5. To use the Eliza chat bot, open the `index.html` file in a web browser or open the GitHub pages link at the bottom of this file.
+
 ## Task 1: Third-order letter approximation model
 * Defined a method to clean the text. 
 * It opens the text file, finds the start and end words and slices that chunk out and only keeps that part.
