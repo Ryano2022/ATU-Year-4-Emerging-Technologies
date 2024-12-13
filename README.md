@@ -1,6 +1,22 @@
 # Tasks and project for my Emerging Technologies module
 Below will be all the explanations on my tasks in this module.
 
+## Installation pre-requisites.
+* Python 3.x installed on your system
+  * Can be downloaded from [python.org](https://www.python.org/downloads/)
+* Required Python packages (install via pip):
+  * `pip install numpy`
+  * `pip install jupyter` (for running notebooks)
+  * json module (built into Python)
+* Web browser for running the Eliza chat bot
+  * Any modern browser like Chrome, Firefox, or Edge
+* Git for version control
+  * Can be downloaded from [git-scm.com](https://git-scm.com/downloads)
+* Text editor or IDE of your choice
+  * Recommended: VS Code with Python extension
+
+You should also be able to run this in default codespaces or download as .zip to avoid downloading Git.
+
 ## Task 1: Third-order letter approximation model
 * Defined a method to clean the text. 
 * It opens the text file, finds the start and end words and slices that chunk out and only keeps that part.
