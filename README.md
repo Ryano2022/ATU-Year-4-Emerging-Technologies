@@ -1,8 +1,5 @@
 [![Deploy static content to Pages](https://github.com/Ryano2022/ATU-Year-4-Emerging-Technologies/actions/workflows/static.yml/badge.svg)](https://github.com/Ryano2022/ATU-Year-4-Emerging-Technologies/actions/workflows/static.yml)
 
-# Tasks and project for my Emerging Technologies module
-Below will be all the explanations on my tasks in this module.
-
 ## Installation pre-requisites.
 * Python 3.x installed on your system
   * Can be downloaded from [python.org](https://www.python.org/downloads/)
